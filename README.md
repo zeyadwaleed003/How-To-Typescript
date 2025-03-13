@@ -6,4 +6,6 @@ A repository documenting my TypeScript learning progress.
 
 ### Courses
 
-- [Complete TS Course](https://www.youtube.com/watch?v=zeCDuo74uzA) by HuXn WebDev
+- [Typescript Syntax](https://www.youtube.com/watch?v=zeCDuo74uzA)
+
+- [Express JS with TypeScript](https://www.youtube.com/watch?v=Be7X6QJusJA)
